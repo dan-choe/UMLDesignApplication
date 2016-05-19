@@ -2,7 +2,7 @@
 
 **UML Design Application** is an application drawing UML class diagram, and it generates corresponding Java source code.
 
-Time spent : 20 hours total
+Time spent : 20 hours spent in total
 
 # Example
 
