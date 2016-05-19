@@ -4,6 +4,6 @@
 
 # Example
 
-<img src="https://raw.githubusercontent.com/dan-choe/UMLDesignApplication/master/uml.png'>
+<img src='https://raw.githubusercontent.com/dan-choe/UMLDesignApplication/master/uml.png'>
 
 
