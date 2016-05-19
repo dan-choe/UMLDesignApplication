@@ -1,0 +1,38 @@
+
+{
+    "canvas":[
+        {
+            "type":"class",
+            "title":"DefaultClass",
+            "package":"DefaultPackage",
+            "parent":"",
+            "implements":[
+            ],
+            "isAbstract":"false",
+            "variable":[
+            ],
+            "method":[
+            ],
+            "positionX":"234.0",
+            "positionY":"210.0",
+            "width":"284.0",
+            "height":"454.0",
+            "relationship":[
+            ]
+        },
+        {
+            "type":"interface",
+            "title":"DefaultInterface",
+            "package":"DefaultPackage",
+            "method":[
+            ],
+            "positionX":"657.0",
+            "positionY":"285.0",
+            "width":"587.0",
+            "height":"380.0",
+            "relationship":[
+            ]
+        }
+    ],
+    "bg":"#dddddd"
+}

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the workspace controls, which are custom for each application
+-->
+<properties>
+    <property_list>
+        <!-- PROGRAM ICON FILES -->
+		<property name="PLUS_ICON"		value="Plus.png"></property>
+		<property name="MINUS_ICON"		value="Minus.png"></property>
+		
+		
+	<property name="SELECTION_TOOL_ICON"	value="SelectionTool.png"></property>
+	<property name="REMOVE_ICON"		value="Remove.png"></property>
+        <property name="RECTANGLE_ICON"		value="Rect.png"></property>
+	<property name="ELLIPSE_ICON"		value="Ellipse.png"></property>
+	<property name="MOVE_TO_FRONT_ICON"	value="MoveToFront.png"></property>
+	<property name="MOVE_TO_BACK_ICON"	value="MoveToBack.png"></property>
+	<property name="SNAPSHOT_ICON"		value="Snapshot.png"></property>
+        
+        <!-- TOOLTIPS FOR BUTTONS -->
+	<property name="SELECTION_TOOL_TOOLTIP"	    value="Use Shape Selection Tool"></property>
+        <property name="REMOVE_ELEMENT_TOOLTIP"	    value="Remove Element"></property>
+	<property name="RECTANGLE_TOOLTIP"	    value="Draw Rectangle"></property>
+	<property name="ELLIPSE_TOOLTIP"	    value="Draw Ellipse"></property>
+	<property name="MOVE_TO_BACK_TOOLTIP"	    value="Move Shape to Back"></property>
+	<property name="MOVE_TO_FRONT_TOOLTIP"	    value="Move Shape to Front"></property>
+	<property name="BACKGROUND_TOOLTIP"	    value="Select Background Color"></property>
+	<property name="FILL_TOOLTIP"		    value="Select Fill Color"></property>
+	<property name="OUTLINE_TOOLTIP"	    value="Select Outline Color"></property>
+	<property name="SNAPSHOT_TOOLTIP"	    value="Take Snapshot"></property>
+	
+	<!-- MESSAGES -->
+	<property name="REMOVE_ELEMENT_MESSAGE"	    value="Are you sure you wish to remove that element?"></property>
+		
+	<!-- ERROR MESSAGES AND TITLES FOR THEIR DIALOGS -->
+	<property name="ATTRIBUTE_UPDATE_ERROR_MESSAGE"	    value="WARNING: An error occured updating the element's attribute."></property>
+	<property name="ATTRIBUTE_UPDATE_ERROR_TITLE"	    value="Attribute Update Error"></property>
+	<property name="UPDATE_ERROR_MESSAGE"		    value="An error occured updating the UI"></property>
+	<property name="UPDATE_ERROR_TITLE"		    value="UI Update Error"></property>
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>

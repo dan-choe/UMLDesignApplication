@@ -1,0 +1,111 @@
+/* 
+    This style sheet stylizes the controls inside our
+    Web Page Maker JavaFX application. Note that controls
+    in the UI must have the same class as those below in 
+    order to be rendered using those properties.
+
+    Author:	Richard McKenna
+    Author:	?
+    Version:	1.0
+*/
+
+.render_canvas{
+    
+    -fx-background-color: #ffffff;
+    -fx-background-image: url('../../../../images/gridbg.gif');
+}
+.color-picker {
+    -fx-padding: 2px;
+}
+
+.whitebox {
+    -fx-background-color: #ffffff;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 1px;
+    -fx-border-color: #000;
+}
+
+.wholebox {
+    -fx-border-width: 0px;
+    -fx-border-color: #000000;
+}
+
+.bluebox {
+    -fx-border-width: 1px;
+    -fx-border-color: #000000;
+}
+
+.selectbox {
+    -fx-border-width: 2px;
+    -fx-border-color: #FFFF00;
+}
+
+.selectbox2 {
+    -fx-border-width: 2px;
+    -fx-border-color: #0000FF;
+}
+
+.classLabel{
+    -fx-font-size: 20px;
+    -fx-font-weight: 600;
+}
+.packageLabel{
+    
+}
+.parent{
+    
+}
+
+.selectedBox {
+    -fx-border-width: 10px;
+    -fx-border-color: #000;
+}
+
+.edit_toolbar_row {
+    -fx-padding: 0px;
+    -fx-spacing: 10;
+    -fx-background-color: #ddddcc;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 1px;
+    -fx-border-color: #ddd;
+}
+
+.color_chooser_pane {
+    -fx-background-color:seashell;
+    -fx-padding: 0px;
+}
+
+.color_chooser_control {
+    -fx-font-weight:bold;
+    -fx-font-size:20;     
+}
+
+.bordered_pane {
+    -fx-background-color: #777;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 1px;
+    -fx-border-color: #000000;
+}
+
+.edit_pane {
+    
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+    -fx-spacing: 10;
+    -fx-border-width: 0px;
+    -fx-border-color: #333333;
+}
+
+.view_pane {
+    
+    -fx-background-radius: 5.0;
+    -fx-padding: 2;
+    -fx-spacing: 10;
+    -fx-border-width: 0px;
+    -fx-border-color: #333333;
+}

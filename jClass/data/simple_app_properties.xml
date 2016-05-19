@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    This XML file allows us to easily customize the look and language used
+    in our program's user interface. Note that this properties file is only
+    for the standard controls for an app from the SimpleAppFramework, so
+    it would not include things initialized for the workspace, which is
+    customizable.
+-->
+<properties>
+    <property_list>
+        <property name="APP_TITLE"	    value="jClass Designer"></property>
+	<property name="APP_LOGO"	    value="jcdLogo.png"></property>
+	<property name="APP_PATH_CSS"	    value="css/"></property>
+	<property name="APP_CSS"	    value="pm_style.css"></property>
+        
+        <!-- PROGRAM ICON FILES -->
+        <property name="NEW_ICON"	    value="New.png"></property>
+        <property name="LOAD_ICON"	    value="Open.png"></property>
+        <property name="SAVE_ICON"	    value="Save.png"></property>
+		<property name="SAVEAS_ICON"	    value="SaveAs.png"></property>
+		<property name="PHOTO_ICON"	    value="Photo.png"></property>
+		<property name="CODE_ICON"	    value="Code.png"></property>
+        <property name="EXIT_ICON"          value="Exit.png"></property> 
+        
+		<property name="SELECT_ICON"          value="Select.png"></property> 
+        <property name="RESIZE_ICON"          value="Resize.png"></property> 
+        <property name="ADDC_ICON"          value="AddC.png"></property> 
+        <property name="ADDI_ICON"          value="AddI.png"></property> 
+        <property name="REMOVE_ICON"          value="Remove.png"></property> 
+        <property name="UNDO_ICON"          value="Undo.png"></property> 
+        <property name="REDO_ICON"          value="Redo.png"></property> 
+        
+		<property name="ZOOMIN_ICON"          value="ZoomIn.png"></property> 
+        <property name="ZOOMOUT_ICON"          value="ZoomOut.png"></property> 
+        <property name="GRID_ICON"          value="Grid.png"></property> 
+        <property name="SNAP_ICON"          value="Snap.png"></property> 
+        
+		
+		
+		
+		
+        <!-- TOOLTIPS FOR BUTTONS -->
+        <property name="NEW_TOOLTIP"		value="Create a New Pose"></property>
+        <property name="LOAD_TOOLTIP"		value="Load an Existing Pose"></property>
+        <property name="SAVE_TOOLTIP"		value="Save this Pose"></property>
+		<property name="SAVEAS_TOOLTIP"		value="Save this Pose"></property>
+		<property name="PHOTO_TOOLTIP"		value="Save this Pose"></property>
+		<property name="CODE_TOOLTIP"		value="Save this Pose"></property>
+		
+        <property name="EXIT_TOOLTIP"		value="Exit the Application"></property>
+        
+        <!-- ERROR MESSAGES -->
+        <property name="CLOSE_BUTTON_TEXT"              value="Close"></property>
+
+        <property name="NEW_ERROR_MESSAGE"              value="An error occured creating New work."></property>
+        <property name="NEW_ERROR_TITLE"		value="New Work Error"></property>
+        <property name="LOAD_ERROR_MESSAGE"             value="An error occured loading work."></property>
+        <property name="LOAD_ERROR_TITLE"		value="Load Work Error"></property>
+        <property name="SAVE_ERROR_MESSAGE"             value="An error occured saving work."></property>
+        <property name="SAVE_ERROR_TITLE"		value="Save Work Error"></property>
+        <property name="PROPERTIES_LOAD_ERROR_MESSAGE"	value="An error occured loading a properties file."></property>	
+        <property name="PROPERTIES_LOAD_ERROR_TITLE"	value="Properties File Loading Error"></property>
+	
+        <!-- VERIFICATION MESSAGES -->
+	
+        <property name="NEW_COMPLETED_MESSAGE"		value="New Work Ready for Editing"></property>
+        <property name="NEW_COMPLETED_TITLE"		value="New Work Created"></property>
+        <property name="LOAD_COMPLETED_MESSAGE"		value="File Loading Completed and ready for editing"></property>
+        <property name="LOAD_COMPLETED_TITLE"		value="Loading Completed"></property>
+        <property name="SAVE_COMPLETED_MESSAGE"		value="File Saving Completed"></property>
+        <property name="SAVE_COMPLETED_TITLE"		value="Saving Completed"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Would you like to save your unsaved work first?"></property>
+        <property name="SAVE_UNSAVED_WORK_TITLE"	value="Save unsaved work?"></property>
+	
+        <property name="NEW_CREATED_MESSAGE"		value="New Work Created but not yet Saved"></property>
+        <property name="WORK_LOADED_MESSAGE"		value="The Work has been Loaded"></property>
+        <property name="WORK_SAVED_MESSAGE"		value="The Work has been Saved"></property>
+        <property name="SAVE_UNSAVED_WORK_MESSAGE"	value="Do you want to save your unsaved work first?"></property>
+	<property name="SAVE_WORK_TITLE"		value="Save your work"></property>
+	<property name="LOAD_WORK_TITLE"		value="Select work file to load"></property>
+	<property name="WORK_FILE_EXT"			value="jcd"></property>
+	<property name="WORK_FILE_EXT_DESC"		value="jClassDesigner Files"></property>
+    </property_list>
+    <property_options_list>
+    </property_options_list>
+</properties>
